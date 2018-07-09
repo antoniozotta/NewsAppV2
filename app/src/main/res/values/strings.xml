@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="thumbnail">News Thumbnail</string>
+    <string name="no_news_found">No News Found!</string>
+    <string name="no_internet_connection">No Internet Connection!</string>
+
+    <string name="holding_title">Long placeholder location that should wrap to more than 2 lines of text</string>
+    <string name="holding_topic">TOPIC</string>
+    <string name="holding_author">The author</string>
+    <string name="holding_date">Mar 6, 2010</string>
+    <string name="holding_thumbnail">Image</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Feed Settings</string>
+
+    <string name="settings_topic_label">Search Topic</string>
+    <string name="settings_topic_key" translatable="false">Topic</string>
+    <string name="settings_topic_default" translatable="false">Sport</string>
+
+    <string name="settings_limit_label">Number of articles to display</string>
+    <string name="settings_limit_key" translatable="false">Limit</string>
+    <string name="settings_limit_default" translatable="false">10</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_most_recent_value</string>
+
+    <!-- Label for order-by Relevance option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">newest</string>
+
+</resources>

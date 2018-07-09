@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dividerHeight">0dp</dimen>
+    <dimen name="newsHeight">60dp</dimen>
+    <dimen name="sm_margin">4dp</dimen>
+    <dimen name="noWidth">0dp</dimen>
+    <dimen name="title_text">14sp</dimen>
+    <dimen name="hori_text">12sp</dimen>
+    <dimen name="mid_margin">8dp</dimen>
+
+</resources>
